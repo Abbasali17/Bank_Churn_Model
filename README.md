@@ -1,4 +1,5 @@
-Bank Churn Prediction with Machine Learning and Neural Networks
+*Bank Churn Prediction with Machine Learning and Neural Networks*
+
 This project demonstrates churn modeling using machine learning and neural network algorithms. The goal is to predict customer churn (whether a customer will exit or not) based on various customer features such as credit score, geography, gender, and balance. The dataset is sourced from a banking domain, and the analysis is structured into several well-defined stages: Exploratory Data Analysis (EDA), data preprocessing, model training, and comparison.
 
 Project Structure
